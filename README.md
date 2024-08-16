@@ -1,6 +1,6 @@
 ## 🌼🪻🌼 Good Day 🌼🪻🌼
  
- I'm @ArooSB. The process of coding is now underway
+ I'm Aroo. The process of coding is now underway
 
 <!---
 ArooSB/ArooSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
