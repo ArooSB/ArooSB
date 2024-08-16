@@ -7,7 +7,7 @@ ArooSB/ArooSB is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  
-#### Lets get in touch 🤗
+#### Let's get in Touch 🤗
 
 <p>
   <a href="https://www.linkedin.com/in/aroosha-sb-975099282/" target="_blank">
